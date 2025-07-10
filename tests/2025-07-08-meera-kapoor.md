@@ -2,7 +2,7 @@
 name: "Meera Kapoor"
 role: "academy"
 designation: "Content Strategist"
-timestamp: "2025-07-08"
+timestamp: "2025-07-08T12:15:00+05:30"
 profile: "telegram.png"
 ---
 
