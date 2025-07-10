@@ -1,7 +1,7 @@
 ---
 title: "Introducing Strawket: A Smarter Way to Build and Share Content"
 author: "Strawket Team"
-tags: ["Strawket", "No-code", "GitHub", "Content Management", "Static CMS"]
+tags: ["Strawket", "GitHub"]
 date: "2025-07-10"
 image: "search.png"
 ---
