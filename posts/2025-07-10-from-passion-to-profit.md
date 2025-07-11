@@ -9,7 +9,7 @@ image: "blog1.jpg"
 
 # You Didn't Get Into Teaching for the Paperwork
 
-You started because you have a passion for a subject—be it chess, coding, or charcoal drawing—and a gift for sharing it with others. Your classes are growing, students are engaged, and word is starting to spread. But with that success comes a creeping sense of dread: more emails, more invoices to chase, more scheduling conflicts, and less time for what you actually love.
+You started because you have a passion for a subject-be it chess, coding, or charcoal drawing-and a gift for sharing it with others. Your classes are growing, students are engaged, and word is starting to spread. But with that success comes a creeping sense of dread: more emails, more invoices to chase, more scheduling conflicts, and less time for what you actually love.
 
 **What if you could grow your business without drowning in administrative work?**
 
@@ -22,7 +22,7 @@ Scaling your education business isn't just about getting more students. It's abo
 Before you can scale, you need a solid foundation. You can't build an empire on shaky ground. Many modern academy management tools, like **Strawket**, have a built-in curriculum/program feature that helps you generate and build out your curriculum.
 
 ### Nail Your Niche:
-Who do you serve best? Instead of _"art classes,"_ consider _"after-school cartooning for kids 8–12."_ Instead of _"robotics workshops,"_ try _"competitive LEGO robotics for teens."_  
+Who do you serve best? Instead of _"art classes,"_ consider _"after-school cartooning for kids 8-12."_ Instead of _"robotics workshops,"_ try _"competitive LEGO robotics for teens."_  
 A specific niche is easier to market and makes you the go-to expert.
 
 ### Solidify Your Curriculum:
@@ -62,13 +62,13 @@ Now that you know who you are and what you offer, it's time to get the word out.
 
 ## Step 4: Price Your Services for Profitability and Growth
 
-Many passionate educators underprice their services. You are providing a valuable, specialized skill—price it accordingly.
+Many passionate educators underprice their services. You are providing a valuable, specialized skill-price it accordingly.
 
-Calculate your true costs—your time, materials, software, and marketing—and set a price that allows for profit and reinvestment into your business.  
+Calculate your true costs-your time, materials, software, and marketing-and set a price that allows for profit and reinvestment into your business.  
 Consider offering packages (e.g., a 10-class pack) or a monthly subscription model to create predictable revenue and encourage student retention.
 
 > Whatever price you choose, a good "Academy OS" also makes it easy for you to collect and reconcile payments easily.  
-> You don’t want to be chasing payments when you could be focusing on teaching!
+> You don't want to be chasing payments when you could be focusing on teaching!
 
 ---
 
@@ -81,7 +81,7 @@ This is where most solo instructors hit a wall. The manual methods you used for 
 - How do you track attendance?  
 - How do you report progress to parents?
 
-Write these processes down. These standard operating procedures are the blueprint for your academy. But a blueprint alone can't build the house—you need the right tools.
+Write these processes down. These standard operating procedures are the blueprint for your academy. But a blueprint alone can't build the house. You need the right tools.
 
 ---
 
@@ -89,7 +89,7 @@ Write these processes down. These standard operating procedures are the blueprin
 
 Remember all those administrative tasks from Step 5? Trying to manage them manually while growing is the fastest path to burnout. This is where technology stops being an expense and becomes an **investment** in your sanity and success.
 
-An academy management platform like **Strawket** is the engine that runs your systems. It’s designed specifically for education businesses like yours, automating the very tasks that are holding you back.
+An academy management platform like **Strawket** is the engine that runs your systems. It's designed specifically for education businesses like yours, automating the very tasks that are holding you back.
 
 Instead of juggling spreadsheets, email chains, and payment apps, you can:
 
@@ -118,7 +118,7 @@ A platform that includes tools for gathering reviews and feedback makes this pro
 
 ---
 
-## Your Passion is Your Business—Let's Build It
+## Your Passion is Your Business-Let's Build It
 
 Transforming your passion into a thriving, profitable business is entirely within your reach.  
 By building a solid foundation, creating efficient systems, and leveraging the right technology, you can grow your impact without sacrificing the joy of teaching.
@@ -126,4 +126,4 @@ By building a solid foundation, creating efficient systems, and leveraging the r
 > **Feeling overwhelmed by the thought of managing it all? You don't have to be.**  
 > See how **Strawket** can automate your operations and free you up to focus on what you do best.
 
-🎯 **Book a free demo of Strawket today** and take the next step on your scaling journey!
+ **Book a free demo of Strawket today** and take the next step on your scaling journey!
