@@ -1,7 +1,7 @@
 ---
 name: "Pakrathi Manodhaya"
 role: "home"
-designation: "Chess Coach"
+designation: "Chess Instructor"
 timestamp: "2025-07-08T12:15:00+05:30"
 profile: "image3.png"
 ---
