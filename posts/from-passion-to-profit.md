@@ -127,4 +127,4 @@ By building a solid foundation, creating efficient systems, and leveraging the r
 > **Feeling overwhelmed by the thought of managing it all? You don't have to be.**  
 > See how **Strawket** can automate your operations and free you up to focus on what you do best.
 
- **Book a free demo of Strawket today** and take the next step on your scaling journey!
+ **Book a free demo of Strawket today** and take the next step on your scaling journey! 
