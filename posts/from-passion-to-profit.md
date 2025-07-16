@@ -16,7 +16,7 @@ You started because you have a passion for a subject-be it chess, coding, or cha
 Scaling your education business isn't just about getting more students. It's about building a sustainable operation that can grow without burning you out. It's about transforming your passion into a profitable, impactful, and enjoyable career. This 7-step guide will show you how.
 
 ---
-![A 7-Step Guide to Scaling Your Education Business](images/blog1.jpg)
+![A 7-Step Guide to Scaling Your Education Business](blog1.jpg)
 
 ## Step 1: Define Your Niche and Solidify Your Curriculum
 
