@@ -16,7 +16,7 @@ In a world where wellness and lifestyle choices are more important than ever, **
 
 ## 1.  Wellness & Real Estate in One Platform
 
-Strawket is one of the few platforms that bridges the gap between mental wellness, yoga sessions, therapy, and property discovery — all in one place.
+Strawket is one of the few platforms that bridges the gap between mental wellness, yoga sessions, therapy, and property discovery - all in one place.
 
 - Book live yoga sessions  
 - Discover real estate trends in your region  
@@ -54,7 +54,7 @@ Strawket uses a **serverless, database-free architecture** powered by GitHub and
 
 ---
 
-## 5. 🇮🇳 Built for India
+## 5. In Built for India
 
 Strawket is designed with Indian users in mind:
 
@@ -66,7 +66,7 @@ Strawket is designed with Indian users in mind:
 
 ### Final Thoughts
 
-If you value simplicity, wellness, and smart tech — **Strawket** is the perfect platform for you. Whether you're looking to meditate, invest in real estate, or simply read up on healthy living, it’s all here.
+If you value simplicity, wellness, and smart tech - **Strawket** is the perfect platform for you. Whether you're looking to meditate, invest in real estate, or simply read up on healthy living, it's all here.
 
  *Join the Strawket community today and take a step toward a healthier, more informed life!*
 
