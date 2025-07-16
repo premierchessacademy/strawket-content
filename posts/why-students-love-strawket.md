@@ -1,8 +1,9 @@
 ---
-title: Why Students Love Strawket: A Seamless Learning Experience
-author: Krati Gupta
+title: "Why Students Love Strawket: A Seamless Learning Experience"
+author: "Strawket Team"
 tags: [students, edtech, experience, learning, personalized]
-image: search.png
+date: "2025-07-11"
+image: "search.png"
 ---
 
 In today’s fast-paced digital world, students are looking for platforms that make learning easier, more personalized, and truly engaging. **Strawket** is winning the hearts of students across the country—and here’s why.
