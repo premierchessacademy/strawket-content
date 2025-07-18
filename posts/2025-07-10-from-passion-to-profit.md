@@ -3,7 +3,7 @@ title: "From Passion to Profit: A 7-Step Guide to Scaling Your Education Busines
 author: "Strawket Team"
 tags: ["Passion", "Profit"]
 date: "2025-07-10"
-image: "blog1.jpg"
+image: "passion.jpeg"
 ---
 
 
