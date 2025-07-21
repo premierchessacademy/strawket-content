@@ -85,5 +85,5 @@ In 2025, the right technology is your ultimate competitive advantage. It allows 
 
 When you're ready to grow, you need a single, powerful platform built with all these essential features at its core.
 
-Don't settle for a system that only does half the job. See how a platform with all 10 essential features can transform your academy. [Book a free, personalized demo of Strawket today](https://strawket.com/))!
+Don't settle for a system that only does half the job. See how a platform with all 10 essential features can transform your academy. [Book a free, personalized demo of Strawket today](https://strawket.com/)!
 
