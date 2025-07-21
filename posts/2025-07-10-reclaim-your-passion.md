@@ -3,7 +3,7 @@ title: "Reclaim Your Passion: 5 Administrative Tasks You Can Automate in Your Te
 author: "Strawket Team"
 tags: ["Passion", "Automate"]
 date: "2025-07-10"
-image: "profit.jpeg"
+image: "11.png"
 ---
 
 
