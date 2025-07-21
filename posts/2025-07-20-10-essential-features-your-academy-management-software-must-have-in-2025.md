@@ -22,9 +22,9 @@ Let's start with the most critical and often most awkward task: getting paid. Ma
 
 ---
 
-##2. Smart, Automated Communication Hub##
+**2. Smart, Automated Communication Hub**
 
-*Benefit: To End the Email Chaos*
+**Benefit: To End the Email Chaos**
 
 Your communication should be simple and centralized, not scattered across five different apps. An essential feature is a hub that automates routine communication. This includes sending automatic reminders before a class, notifying parents of schedule changes, and sharing class-wide announcements. When all communication lives in one place, everyone knows where to look, and you're no longer wasting time answering questions that have already been answered.
 
