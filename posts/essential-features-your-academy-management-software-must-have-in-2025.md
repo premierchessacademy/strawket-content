@@ -22,7 +22,7 @@ To cut through the noise, we’ve created the definitive checklist. If you're co
 Let's start with the most critical and often most awkward task: getting paid. Manually creating invoices, tracking payments in a spreadsheet, and chasing overdue fees is a drain on your time and energy. [Modern academy management software](https://strawket.com/academies) must automate this. Look for a system that can automatically generate and send invoices, accept online payments securely, and send polite, automated reminders for late payments. This professionalizes your business, stabilizes your cash flow, and removes you from the uncomfortable role of "collections agent."
 
 ---
-![Mindful Breathing](https://raw.githubusercontent.com/premierchessacademy/strawket-content/main/images/search.png)
+(https://raw.githubusercontent.com/premierchessacademy/strawket-content/main/images/search.png)
 
 ### 2. Smart, Automated Communication Hub
 
