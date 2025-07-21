@@ -34,6 +34,8 @@ Your communication should be simple and centralized, not scattered across five d
 
 Messy paper sheets and error-prone spreadsheets are a thing of the past. Your software must have a simple, digital attendance feature. With a few clicks at the start of class, you should be able to log who is present. This data is foundational; it provides an accurate record for invoicing, simplifies the management of makeup classes, and offers valuable insights for student progress reports.
 
+image: "strawketBlog3-1.png"
+
 **4. AI-Assisted Curriculum and Report Generation**
 
 **Benefit: To Leverage the Power of Modern AI**
@@ -57,6 +59,8 @@ When you have 5 students, you can remember everything about them. At 50, it's im
 **Benefit: For a Professional and Seamless User Experience**
 
 Making things easy for your customers is a huge competitive advantage. A dedicated portal where parents and students can log in with a single password is no longer a luxury—it's an expectation. From this portal, they should be able to view schedules, join online classes, see outstanding payments, download resources, and track their progress. It makes your small academy look and feel as professional as a large institution.
+
+image: "strawketBlog3-2.jpg"
 
 **8. Assignment Submission and Automated Grading**
 
