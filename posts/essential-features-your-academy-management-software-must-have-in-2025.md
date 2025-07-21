@@ -18,7 +18,7 @@ To cut through the noise, we’ve created the definitive checklist. If you're co
 
 **Benefit: For Financial Peace of Mind**
 
-Let's start with the most critical and often most awkward task: getting paid. Manually creating invoices, tracking payments in a spreadsheet, and chasing overdue fees is a drain on your time and energy. Modern academy management software must automate this. Look for a system that can automatically generate and send invoices, accept online payments securely, and send polite, automated reminders for late payments. This professionalizes your business, stabilizes your cash flow, and removes you from the uncomfortable role of "collections agent."
+Let's start with the most critical and often most awkward task: getting paid. Manually creating invoices, tracking payments in a spreadsheet, and chasing overdue fees is a drain on your time and energy. [Modern academy management software](https://strawket.com/academies) must automate this. Look for a system that can automatically generate and send invoices, accept online payments securely, and send polite, automated reminders for late payments. This professionalizes your business, stabilizes your cash flow, and removes you from the uncomfortable role of "collections agent."
 
 ---
 
@@ -85,5 +85,5 @@ In 2025, the right technology is your ultimate competitive advantage. It allows 
 
 When you're ready to grow, you need a single, powerful platform built with all these essential features at its core.
 
-Don't settle for a system that only does half the job. See how a platform with all 10 essential features can transform your academy. Book a free, personalized demo of Strawket today!
+Don't settle for a system that only does half the job. See how a platform with all 10 essential features can transform your academy. [Book a free, personalized demo of Strawket today](https://strawket.com/))!
 
