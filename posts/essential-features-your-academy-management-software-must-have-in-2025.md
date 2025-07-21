@@ -3,7 +3,7 @@ title: "10 Essential Features Your Academy Management Software Must Have in 2025
 author: "Strawket Team"
 tags: ["Academy Management", "Academy Management Software"]
 date: "2025-07-20"
-image: "strawketBlog3.png"
+image: "10.png"
 ---
 
 
