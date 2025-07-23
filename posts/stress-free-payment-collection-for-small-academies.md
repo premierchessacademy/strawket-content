@@ -9,7 +9,7 @@ image: "strawket123.jpg"
 
 Running a small academy or tutoring center is a labor of love. You pour your energy into creating lesson plans, inspiring students, and fostering a passion for learning. But there's one part of the job that can quickly sour the experience: chasing payments. The awkward conversations, the forgotten cash, the "I'll send it later" promises—it's a major source of stress that takes you away from what you do best.
 
-If you're still relying on cash payments, manual bank transfers, or a messy spreadsheet to track who has paid, you know the struggle is real. It's time to stop being the "bad guy" and reclaim your peace of mind. This guide will walk you through the pitfalls of outdated payment methods and show you how a modern [https://strawket.com/](tutoring payment system) can transform your financial health.
+If you're still relying on cash payments, manual bank transfers, or a messy spreadsheet to track who has paid, you know the struggle is real. It's time to stop being the "bad guy" and reclaim your peace of mind. This guide will walk you through the pitfalls of outdated payment methods and show you how a modern [tutoring payment system](https://strawket.com/) can transform your financial health.
 
 ---
 
@@ -89,4 +89,4 @@ This is the game-changer. What happens when, despite reminders, a payment is sig
 
 Your time and energy are your most valuable assets. Wasting them on manual, stressful administrative tasks like payment collection holds your academy back.
 
-By implementing a modern [https://strawket.com/](tutoring payment system), you solve one of the biggest headaches of running a small educational business. You ensure consistent cash flow, project a professional image, build trust through transparency, and most importantly, get to be the inspiring educator you set out to be—not the reluctant bill collector.
+By implementing a modern [tutoring payment system](https://strawket.com/), you solve one of the biggest headaches of running a small educational business. You ensure consistent cash flow, project a professional image, build trust through transparency, and most importantly, get to be the inspiring educator you set out to be—not the reluctant bill collector.
