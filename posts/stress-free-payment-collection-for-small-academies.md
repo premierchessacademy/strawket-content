@@ -80,7 +80,7 @@ Confusion over payments often stems from a lack of clarity. A dedicated payment 
 
 This is the game-changer. What happens when, despite reminders, a payment is significantly overdue? Confronting a parent and denying their child access to class is a heart-wrenching and awkward experience for any instructor. An automated system can handle this difficult situation impersonally and fairly.
 
-![Strawket Image](https://github.com/premierchessacademy/strawket-content/blob/main/images/image123.jpg)
+![Strawket Image](https://github.com/premierchessacademy/strawket-content/blob/main/images/image123.jpg?raw=true)
 
 **Automated Restrictions:** You can set a rule in the system that if a payment is overdue by a specific number of days (e.g., 15 days), the student's access to the online portal, class materials, or booking new sessions is automatically and temporarily restricted.
 
