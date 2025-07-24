@@ -36,7 +36,8 @@ These methods don't just waste your time; they can strain your relationship with
 
 Imagine a world where payments arrive on time, every time, without you having to send a single reminder. Where parents can view their invoices and pay with a single click. Where access to class materials is seamlessly managed based on payment status. This isn't a fantasy; it's the reality of using an automated system designed for academies.
 
-![(https://github.com/premierchessacademy/strawket-content/blob/main/images/strawket124.jpg)]
+![Strawket Image](https://github.com/premierchessacademy/strawket-content/blob/main/images/strawket124.jpg?raw=true)
+
 
 Let's explore how to collect payments from students efficiently using a system like Strawket, which integrates payments directly into your academy's platform.
 
