@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Stress-Free Payment Collection for Small Academies"
 author: "Strawket Team"
-tags: ["Academy Management", "Academy Management Software"]
+tags: ["tutoring payment system", "tutoring payment system"]
 date: "2025-07-23"
 image: "strawket123.jpg"
 ---
