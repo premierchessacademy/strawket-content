@@ -1,7 +1,7 @@
 ---
 title: "How to Use AI to Create a Standardized, High-Quality Curriculum (Without Losing Your Touch)"
 author: "Strawket Team"
-tags: ["Academy Management", "Academy Management Software"]
+tags: ["High-Quality Curriculum", "AI curriculum generator"]
 date: "2025-07-26"
 image: "strawket126 (1).jpg"
 ---
