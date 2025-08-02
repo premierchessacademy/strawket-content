@@ -32,6 +32,8 @@ E-learning is no longer a trend—it’s the future. With the flexibility to lea
 Strawket delivers engaging, curriculum-aligned content using the latest technology. Our Learning Management System (LMS) offers personalized pathways, progress tracking, and real-time feedback. Teachers and parents can monitor growth while students enjoy a gamified and interactive digital classroom that holds their attention.
 
 Our platform also ensures inclusivity, making quality education accessible to students across geographies and socioeconomic backgrounds.
+
+
 ---
 
 ### Using Educational Games to Make Learning Fun
