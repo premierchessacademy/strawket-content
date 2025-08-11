@@ -27,7 +27,7 @@ With features like attendance tracking, assignment submissions, and multimedia l
 
 ### A Comprehensive Hub for Online Learning Platforms
 
-Unlike many (online learning platforms)[https://strawket.com/] that focus on a single niche, Strawket offers a versatile environment for all types of learners—from school students to advanced scholars.
+Unlike many [online learning platforms](https://strawket.com/) that focus on a single niche, Strawket offers a versatile environment for all types of learners—from school students to advanced scholars.
 
 We combine video conferencing, course creation tools, assessment systems, and analytics in one place. This makes it easier for tutors to teach diverse subjects while allowing students to access a wide range of courses in one integrated platform.
 
@@ -51,9 +51,9 @@ Our platform’s adaptive learning technology also personalizes the experience, 
 
 Tutors on Strawket have access to a suite of tools that make teaching online seamless. From automated grading systems to AI-powered attendance tracking, educators can save time on administrative tasks and focus on teaching.
 
-For those involved in (homeschooling)[https://strawket.com/academies], these tools make lesson delivery smoother, while for higher education, they help manage complex academic requirements efficiently.
+For those involved in [homeschooling](https://strawket.com/academies), these tools make lesson delivery smoother, while for higher education, they help manage complex academic requirements efficiently.
 
-![Image 137](https://github.com/premierchessacademy/strawket-content/blob/main/images/137.jpg)
+![Image 138](https://raw.githubusercontent.com/premierchessacademy/strawket-content/main/images/138.jpg)
 
 ---
 
@@ -67,7 +67,7 @@ By making distance learning more inclusive, we ensure that education is not limi
 
 Online education requires a safe environment for both tutors and students. Strawket ensures data security with end-to-end encryption, secure logins, and privacy controls that meet global compliance standards.
 
-For (online doctoral programs)[https://strawket.com/], where sensitive research data may be shared, these measures are critical in maintaining academic integrity and confidentiality.
+For [online doctoral programs](https://strawket.com/), where sensitive research data may be shared, these measures are critical in maintaining academic integrity and confidentiality.
 
 ---
 
@@ -75,7 +75,7 @@ For (online doctoral programs)[https://strawket.com/], where sensitive research 
 
 For institutions already running their own systems, Strawket offers easy integration capabilities. Schools, universities, and coaching centers can link our platform with their existing databases, making the transition to digital education smoother.
 
-![Image 138](https://github.com/premierchessacademy/strawket-content/blob/main/images/138.jpg)
+![Image 137](https://raw.githubusercontent.com/premierchessacademy/strawket-content/main/images/137.jpg)
 
 This adaptability allows us to serve as both a primary online learning platform and a supplementary tool for hybrid education models.
 
@@ -87,7 +87,7 @@ From homeschooling to online doctoral programs, our goal is to make education mo
 
 Conclusion
 
-Strawket is more than just another online learning platform—it’s a revolution in how education is delivered and experienced. Whether you’re a parent managing homeschooling, a university offering online doctoral programs, or a student seeking flexible (distance learning)[https://strawket.com/] options, our platform is built to meet your needs.
+Strawket is more than just another online learning platform—it’s a revolution in how education is delivered and experienced. Whether you’re a parent managing homeschooling, a university offering online doctoral programs, or a student seeking flexible [distance learning](https://strawket.com/) options, our platform is built to meet your needs.
 
 By blending innovation, accessibility, and interactivity, Strawket ensures that education remains a powerful tool for growth in today’s fast-paced digital world. Join us and be part of the future of learning.
 
