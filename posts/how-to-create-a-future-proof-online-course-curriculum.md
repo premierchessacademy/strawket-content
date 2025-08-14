@@ -2,7 +2,7 @@
 title: "How to Create a Future-Proof Online Course Curriculum"
 author: "Strawket Team"
 tags: ["Academy Management", "Academy Management Software"]
-date: "2025-07-20"
+date: "2025-08-14"
 image: "141.jpg"
 ---
 
