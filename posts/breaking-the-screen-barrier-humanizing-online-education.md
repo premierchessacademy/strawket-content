@@ -2,7 +2,7 @@
 title: "Breaking the Screen Barrier: Humanizing Online Education"
 author: "Strawket Team"
 tags: ["online education", "best online learning platforms", "master of education online", "online education programs", "online teaching platforms"]
-date: "2025-08-25"
+date: "2025-08-28"
 image: "149.jpg"
 ---
 
