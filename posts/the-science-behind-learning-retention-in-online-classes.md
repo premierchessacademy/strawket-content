@@ -2,7 +2,7 @@
 title: "The Science Behind Learning Retention in Online Classes"
 author: "Strawket Team"
 tags: ["Online Classes", "Online Learning Classes", "online learning platforms", "online education programs", "online teaching platforms"]
-date: "2025-08-28"
+date: "2025-09-03"
 image: "156.png"
 ---
 
