@@ -2,7 +2,7 @@
 title: "Digital Discipline: Keeping Students Motivated in Online Learning"
 author: "Strawket Team"
 tags: ["online school USA", "distance learning centre", "distance learning USA", "online math learning", "online degree programs USA"]
-date: "2025-08-28"
+date: "2025-09-11"
 image: "18.png"
 ---
 
