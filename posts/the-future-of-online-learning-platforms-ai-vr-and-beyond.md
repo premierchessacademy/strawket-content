@@ -2,7 +2,7 @@
 title: "The Future of Online Learning Platforms: AI, VR, and Beyond"
 author: "Strawket Team"
 tags: ["Online Learning Platforms", "online courses", "best online learning platforms", "online education programs", "online teaching platforms"]
-date: "2025-08-28"
+date: "2025-09-23"
 image: "s23.png"
 ---
 
