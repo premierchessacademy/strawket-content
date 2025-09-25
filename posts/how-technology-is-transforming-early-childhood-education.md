@@ -2,7 +2,7 @@
 title: "How Technology is Transforming Early Childhood Education"
 author: "Strawket Team"
 tags: ["Early Childhood Education", "online school", "online courses", "online degree programs", "learning management system"]
-date: "2025-08-28"
+date: "2025-09-25"
 image: "s25.png"
 ---
 
