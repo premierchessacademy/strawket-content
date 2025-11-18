@@ -2,7 +2,7 @@
 title: "How AI is Transforming Learning Management Systems"
 author: "Strawket Team"
 tags: ["online education", "best online learning platforms", "master of education online", "online education programs", "online teaching platforms"]
-date: "2025-11-10"
+date: "2025-11-18"
 image: "239.png"
 ---
 
