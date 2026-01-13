@@ -2,7 +2,7 @@
 title: "Current Trends in Early Childhood Education in USA"
 author: "Strawket Team"
 tags: ["early childhood education USA, master of education online USA, online learning courses USA, and online teaching platforms USA"]
-date: "2025-11-10"
+date: "2026-01-13"
 image: "141.jpg"
 ---
 
