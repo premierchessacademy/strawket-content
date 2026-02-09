@@ -1,7 +1,7 @@
 ---
 title: "Best Educational App for Skill Development and Career Growth"
 author: "Strawket Team"
-tags: ["Best Educational App, Top Learning App, Educational Apps for Students, Students Educational App"]
+tags: ["Best Educational App"]
 date: "2025-12-04"
 image: "s28.png"
 ---
