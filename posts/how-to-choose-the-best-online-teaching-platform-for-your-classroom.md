@@ -1,7 +1,7 @@
 ---
 title: "How to Choose the Best Online Teaching Platform for Your Classroom"
 author: "Strawket Team"
-tags: ["Best Online Teaching Platform, Online Teaching Platform, online learning platforms, online education programs"]
+tags: ["Best Online Teaching Platform"]
 date: "2025-10-20"
 image: "132.jpg"
 ---
