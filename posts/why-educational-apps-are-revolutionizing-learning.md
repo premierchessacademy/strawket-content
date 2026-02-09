@@ -1,7 +1,7 @@
 ---
 title: "Why Educational Apps Are Revolutionizing Learning"
 author: "Strawket Team"
-tags: ["Best Educational App, Top Learning App Educational, Apps for Students, Students Educational App"]
+tags: ["Educational App"]
 date: "2025-12-1"
 image: "strawket152.png"
 ---
