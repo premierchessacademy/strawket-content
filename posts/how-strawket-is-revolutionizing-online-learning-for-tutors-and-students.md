@@ -1,7 +1,7 @@
 ---
 title: "How Strawket Is Revolutionizing Online Learning for Tutors and Students"
 author: "Strawket Team"
-tags: ["homeschooling", "online learning platforms", "distance learning"]
+tags: ["Online Learning"]
 date: "2025-08-11"
 image: "139.jpg"
 ---
