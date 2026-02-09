@@ -1,7 +1,7 @@
 ---
 title: "Educational App for College and University Students: Transforming Learning in the Digital Era"
 author: "Strawket Team"
-tags: ["Best Educational App, Top Learning App, Educational Apps for Students, Students Educational App"]
+tags: ["Best Educational App"]
 date: "2025-12-09"
 image: "155.png"
 ---
