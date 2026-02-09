@@ -1,7 +1,7 @@
 ---
 title: "The Importance of Quality Early Childhood Education in USA"
 author: "Strawket Team"
-tags: ["early childhood education USA, master of education online USA, online learning courses USA, online teaching platforms USA"]
+tags: ["Early childhood education USA"]
 date: "2026-1-06"
 image: "s30.png"
 ---
