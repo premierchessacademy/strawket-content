@@ -1,7 +1,7 @@
 ---
 title: "What Modern Learners Expect From Online Training"
 author: "Strawket Team"
-tags: ["Distance learning USA"]
+tags: ["Online Training"]
 date: "2025-09-09"
 image: "114.png"
 ---
