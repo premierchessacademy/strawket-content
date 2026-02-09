@@ -1,7 +1,7 @@
 ---
 title: "The Role of Online Teaching Platforms in Skill-Based Learning"
 author: "Strawket Team"
-tags: ["online high school, homeschooling, online learning platforms, distance learning, best online learning platforms"]
+tags: ["online learning platforms"]
 date: "2025-10-13"
 image: "132.jpg"
 ---
