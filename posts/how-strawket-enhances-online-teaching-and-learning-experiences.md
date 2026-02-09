@@ -1,7 +1,7 @@
 ---
 title: "How Strawket Enhances Online Teaching and Learning Experiences"
 author: "Strawket Team"
-tags: ["best educational apps, online schools for psychology, homeschooling USA, online degree programs USA, online math learning"]
+tags: ["online learning"]
 date: "2025-10-07"
 image: "19.png"
 ---
