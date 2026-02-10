@@ -1,7 +1,7 @@
 ---
 title: "Benefits of Using a Learning Management System for Schools and Universities"
 author: "Strawket Team"
-tags: ["online education", "best online learning platforms", "master of education online", "online education programs", "online teaching platforms"]
+tags: ["online education"]
 date: "2025-11-10"
 image: "232.png"
 ---
