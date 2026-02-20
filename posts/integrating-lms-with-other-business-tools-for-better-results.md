@@ -1,7 +1,7 @@
 ---
 title: "Integrating LMS with Other Business Tools for Better Results"
 author: "Strawket Team"
-tags: ["online education", "best online learning platforms", "master of education online", "online education programs", "online teaching platforms"]
+tags: ["online education"]
 date: "2025-11-14"
 image: "234.png"
 ---
