@@ -2,7 +2,7 @@
 title: "Challenges in Academy Management and How to Overcome Them"
 author: "Strawket Team"
 tags: ["Online Learning"]
-date: "2026-02-10"
+date: "2026-02-21"
 image: "152.jpg"
 ---
 
