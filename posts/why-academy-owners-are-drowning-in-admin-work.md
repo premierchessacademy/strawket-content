@@ -2,7 +2,7 @@
 title: "Why Academy Owners Are Drowning in Admin Work"
 author: "Strawket Team"
 tags: ["Academy"]
-date: "2026-02-10"
+date: "2026-02-25"
 image: "s26.png"
 ---
 
