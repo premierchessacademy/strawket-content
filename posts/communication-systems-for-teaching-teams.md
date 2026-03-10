@@ -73,7 +73,7 @@ Quizzes, discussion boards, multimedia content, and live classes are all common 
 
 Using an online academy platform, schools can reach more people and teach hundreds or even thousands of students at once without losing the ability to communicate well.
 
-![Image](https://github.com/premierchessacademy/strawket-content/blob/main/images/1237.png)
+![image](https://raw.githubusercontent.com/premierchessacademy/strawket-content/main/images/1235.png)
 
 ---
 
@@ -119,8 +119,7 @@ Strawket is a full-featured online academy platform that makes it easier for bot
 
 Strawket's structured Learning Management System makes it easy for teaching teams to work together, run courses well, and give students a smooth learning experience.
 
-![Image](https://github.com/premierchessacademy/strawket-content/blob/main/images/1235.png)
-
+![image](https://raw.githubusercontent.com/premierchessacademy/strawket-content/main/images/1237.png)
 
 ---
 
