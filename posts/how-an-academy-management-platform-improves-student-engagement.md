@@ -1,7 +1,7 @@
 ---
-title: "Attendance Automation for Coaching Institutes"
+title: "How an Academy Management Platform Improves Student Engagement"
 author: "Strawket Team"
-tags: ["Attendance"]
+tags: ["Academy Management"]
 date: "2026-03-31"
 image: "61.png"
 ---
