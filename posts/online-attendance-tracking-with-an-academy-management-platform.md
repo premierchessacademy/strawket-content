@@ -61,8 +61,7 @@ Advanced search and filtering options make it easy to retrieve specific data wit
 
 A modern Online Attendance Tracking system is built to automate the entire attendance process, eliminating the need for manual registers and paperwork. With the help of an [advanced Academy Management Platform](https://strawket.com/academies), attendance can be marked automatically through features like biometric integration, RFID cards, QR codes, or simple digital check-ins. The system instantly records and updates attendance data in real time, ensuring that all information is accurate and up to date. This automation not only reduces the workload for teachers but also improves overall operational efficiency. By minimizing repetitive tasks, institutions can streamline their daily processes and maintain consistent attendance records without any hassle.
 
-![Image 1](https://github.com/premierchessacademy/strawket-content/blob/main/images/62.png)
-
+![Image 1](https://raw.githubusercontent.com/premierchessacademy/strawket-content/main/images/62.png)
 ---
 
 ### Mobile Accessibility
@@ -106,8 +105,7 @@ Consistent monitoring through Online Attendance Tracking plays a crucial role in
 
 One of the biggest advantages of using an [Academy Management Platform](https://strawket.com/academies) is the ability to make informed, data-driven decisions. The system provides detailed analytics and reports on attendance, student performance, engagement levels, and other key metrics. Administrators can use this data to identify trends, spot areas of concern, and implement strategies for improvement. For example, institutions can track which students need additional support or which classes require better engagement methods. By leveraging accurate data insights, academies can enhance their decision-making process, improve outcomes, and ensure continuous growth and success.
 
-![Image 2](https://github.com/premierchessacademy/strawket-content/blob/main/images/61.png)
-
+![Image 2](https://raw.githubusercontent.com/premierchessacademy/strawket-content/main/images/61.png)
 ---
 
 ### Role of Teacher Management Tools in Attendance Tracking
