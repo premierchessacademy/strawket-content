@@ -42,8 +42,7 @@ Better understanding of company policies
 
 A Learning Management System ensures that new hires receive a consistent onboarding experience, regardless of their location. This leads to faster integration and improved performance.
 
-![Image 1](https://github.com/premierchessacademy/strawket-content/blob/main/images/52.png)
-
+![Image 1](https://github.com/premierchessacademy/strawket-content/raw/main/images/52.png)
 
 ---
 
@@ -131,7 +130,7 @@ With advanced security features, organizations can protect sensitive information
 
 At Strawket, we are committed to providing innovative LMS solutions that cater to the needs of modern remote teams. Our Learning Management System is designed to simplify training, enhance engagement, and improve performance.
 
-![Image 2](https://github.com/premierchessacademy/strawket-content/blob/main/images/62.png)
+![Image 2](https://github.com/premierchessacademy/strawket-content/raw/main/images/62.png)
 
 We offer a comprehensive online academy platform and [academy management software](https://strawket.com/academies) that enables organizations to create, manage, and deliver effective training programs. With a focus on user experience and advanced features, Strawket helps businesses build a skilled and motivated workforce.
 
